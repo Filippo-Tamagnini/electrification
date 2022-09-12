@@ -3,3 +3,40 @@ compare the characteristics of heat recovery networks and utility systems
 under electrification with those under conventional fossil-fuel energy systems.
 >> design interaction between heat recovery and electrification
 >> cost-effectiveness of electrified energy systems and its dependence on heat recovery
+
+Previous Case studies :
+1.The use of hydrogen generated from electrolysis and the supply of electricity for
+process heating are considered for the production of ammonia
+2. electricity-assisted heating using heat pumps and CO2 hydrogenation using hydrogen from electrolysis are designed for
+methanol production
+3. evaluation of electrification options and applied it to an oxo synthesis plant, in which
+a pinch analysis was utilized to compare the heating requirements between the conventional and electrified processes
+ >> No systematic strategy for selection of electrification options
+and supported the design of site-wide utility management under electrified processing.
+4. The use of an electricity header, with which electricity supply and generation
+from individual processes interact, is proposed to support site-wide
+electricity distribution.
+
+This paper - work investigated the simultaneous introduction of electrified heating options,
+determining the most appropriate schemes for electrification >> TWO CASE STUDIES
+
+Electrified heation
+=> Ease of operation
+=> Ease of process control >> Many degrees of freedom, fast dynamics, fast start up and shutdown
+=> High energy efficiency >> the supply of electrified heat can be conducted in a more uniformly distributed manner
+=> high resiliency and adaptiveness for non-steady and time-dependent operations
+=> industrial-scale system implementation of electric heaters and electrode boilers is currently available for process
+   industries >> the technology readiness level (TRL) is regarded as 9.
+
+CASE STUDY 1 - production of methyl acetate via carbonylation of dimethyl ether
+Two processes involved -
+>> production of dimethyl ether through the dehydration of methanol - DEHYDRATION UNIT
+>> production of methyl acetate by the reaction between carbon monoxide and dimethyl ether - REACTOR UNIT
+
+Two levels of electrification realised -
+>> Level 1 : Semi-electrification - replaces the conventional exchanger
+with an electric heater.
+>> Level 2 : Full electrification - complicated option > requires configurational changes 
+1. Introduce a heat pump that provides the heat required for the process at the expense of the power.
+2. Integrate the ORC with the heat available from the two reactors, in which heat used for steam production in the base
+scenario is used as the energy source for electricity generation.
