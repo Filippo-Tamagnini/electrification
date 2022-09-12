@@ -1,0 +1,5 @@
+Two case studies possible designs of electrified heat supply for processing industries and to 
+compare the characteristics of heat recovery networks and utility systems
+under electrification with those under conventional fossil-fuel energy systems.
+>> design interaction between heat recovery and electrification
+>> cost-effectiveness of electrified energy systems and its dependence on heat recovery
