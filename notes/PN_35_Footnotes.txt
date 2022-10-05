@@ -1,0 +1,64 @@
+Incorporating load flexibility in the chemical processes
+to improve the economics of integrating variable renewable energy.
+
+Challenge of viable and feasible electrifition
+>> Steady state demand of chemical industry
+>> Excess RE provision ?? energy storage in the form of compressed H2 but with technical barriers
+like cost, storage, safety
+
+>> The intention of this work is to reveal the key mechanisms
+by which process flexibility can potentially improve the economic
+and environmental performances of chemical production powered by
+variable renewable sources.
+>> Implemented model for Germany and US > due to high availability of wind and solar power
+
+Assumptions
+(1) One year operation with no downtime of methanol production. 
+(2) All process units are assumed to have a life of 30 years.
+(3) Makeup streams in carbon capture process are excluded in costing
+because the materials loss is negligible. 
+(4) The energy from the purge stream is ignored since it is difficult to recover the heat from
+process flare. 
+(5) The compressors modelled in this work are assumed to be isentropic with an efficiency of 75%. (6) All mechanical work
+and process heating (except the integrated heating) are powered by
+electricity only. 
+(7) The electrolysers can ramp instantaneously from 0–100%. 
+(8) The storage units are not limited by charging or discharging
+rate. 
+(9) The standby losses of energy and material in the storage units
+are neglected.
+
+\--\Results\--\
+ 
+\\The optimisation results are shown to be strongly affected by two
+factors, i.e., the dispatchable energy price and the degree of process
+flexibility\\
+\\with relatively cheap renewable power, the benefits from a flexible
+process would be limited.\\
+\\inspection of the limited economic improvement by process
+flexibility shows that the benefit is restricted by the level of renewable
+penetration\\
+\\The reliance of H2 storage is reduced because the variability of renewable sources
+is tackled by the alternative subsystems, i.e.,CO2 and raw methanol
+storage, which are much cheaper than H2 storage\\
+\\If the renewable generation is relatively cheap, the excess provision
+of renewable power may occur in lieu with renewable energy storage
+(i.e., the H2-based ESS). The benefits of process flexibility in such a case
+would be mainly from the reduction of the renewable over-provision\\
+
+STUDY GIVES NUMBERS ON WHAT RATIOS OF RENEWABLES MUST BE USED TO GET 100% RENEWABLE PENETRATION
+AND MOST ECONOMICAL PROCESS WITH AND WITHOUT FLEXIBLE PROCESSES
+
+For viable flexibility implementation
+//The cost of the core flexible chemical process units, i.e., those
+that need to be over-sized to enable load adjustment, should not be a
+dominant element in the total production cost, and (2) the storage cost
+for intermediate products in the chemical process – incurred due to the
+need for handling flexibility disparity between process units – should
+be sufficiently lower than the energy storage system for VRE//
+
+The demonstrated benefits of process flexibility arise from
+reduced expensive energy (H2) storage (when the renewable generation
+is expensive) and, in certain cases, improved energy utilisation due
+to the reduction of curtailment and energy conversion losses (when
+the renewable generation is cheap).

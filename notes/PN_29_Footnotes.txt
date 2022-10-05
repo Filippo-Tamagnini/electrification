@@ -1,0 +1,62 @@
+PN35
+
+>> Presents direct electrification : replacing conventional fuel based heating with heat pump
+the simple replacement of heating using electricity is inefficient > focus on the implementation of heat-pumps to facilitate process heat integration.
+>> Indirect electrification : replacing feedstock with H2 (generated from electrolysis of H2O) + carbon captured CO2 instead of fossil fuel feedstock
+>> Combined direct and indirect electrification
+
+
+Relevant assumptions
+(2) All the CO2 feedstock is obtained via carbon capture from a flue gas source with conditions
+(3) Energy from process flare is excluded from heat integration. 
+(4) Multiple heat-pump implementation is not considered because its complexity (and thus its cost)
+significantly outweighs the potential benefit. 
+(5) The compressors modelled in process simulation are assumed to be isentropic with an efficiency of
+75%. 
+(6) All mechanical work for both process and heat-pump compression is powered by electricity only. 
+(7) The TFCC calculation only considers main equipment cost (excluding heat-pumps and other auxiliary units). 
+(8) The price of electricity in the financial analysis is considered as an exogenous
+factor. However it is assumed to be 18 €/MWh in the base scenario
+of the sensitivity test. IMPORTANT!! 
+(9) Both environmental and financial assessments do
+not consider infrastructure construction and its potential impact.
+
+\\Cons
+1. electricity generation and transmission involve substantial energy losses and thus its application as a
+heat source in chemical industry is less efficient than onsite combustion from an energy efficiency point of view.
+2. electricity consumption is increased from 14.2 to 604.1MW due to feedstock (hydrogen) synthesis. (Indirect electrification)
+3. the synthesis of MeOH through hydrogenation requires a large excess of H2.
+4. Cost of extraction of energy in electrolysis of H2O, although no feed cost as opposed to natural gas (no energy extraction cost, but high value feed).
+
+
+Results
+1. The direct electrification for the base case scenario (S1)
+can only substitute 7.8% of its total heating at an additional electricity
+consumption of 1.6 MW, both values are insignificant.
+\\Although the reduction is insignificant (reduced from 92.1MW
+in S1 to 85.1MW in S3), the fired heat requirement is completely eliminated in S3 leaving only low-grade heating demand
+
+2. A significant increase in electricity demand (from 14.2MW in S1 to 579.8MW in S3) can
+be observed, which is attributed to the H2 production in the CO2 hydrogenation
+plant (accounting for 94% of the total electricity consumption in S3)
+3. The reduction in heating (and thus a trend in achieving an almost fully electrified process) is of special interest
+as it facilitates the implementation and management of RES in chemical production
+4. Although the direct electrification (S1 vs. S2) is insignificant
+it has the advantage of a straightforward implementation. On the contrary,
+the indirect electrification strategy requires a new flowsheet design and
+thus is not applicable to existing chemical plants.
+
+//Key points//
+(1) modification of current industrial processes may have an insignificant impact
+on energy transition, and thus new process designs should be explored
+instead. 
+(2) Energy policies should plan for a significant increase
+in power demand. From our analysis, the fully electrified MeOH pro
+duction consumes 6 – 7 times more energy than the traditional fossil
+based process. 
+(3) Renewable power deployment has to be accelerated
+in the near future and in tandem with the progress in electrification
+ensuring that increased electricity demand will be met by zero-carbon
+resources.
+
+
